@@ -1,0 +1,20 @@
+ul {
+padding: 15px;
+margin: 3px;
+background: #2e5cb8;
+list-style: disc;
+}
+ul li {
+padding: 5px;
+margin: 5px 15px;
+background: #ebf0fa;
+}
+
+body {
+background-color: #00BFFF;
+
+}
+body {
+  background-image: url('https://avatars.mds.yandex.net/get-pdb/1357752/6b2c8f4c-e05b-4e4a-808e-c1682f6b1ac5/s1200?webp=false') height = 100;
+
+}
